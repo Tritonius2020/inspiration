@@ -1,7 +1,9 @@
 body {
+    text-aling : center;
     font-family: sans-serif;
    }
 h1 {
-    padding:30px;
-        border color: red  solid ;
+    padding:auto;
+        font-size:20px;
+        
    }
