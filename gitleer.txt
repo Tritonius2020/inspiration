@@ -14,8 +14,14 @@
 33:58 git checkout <branch name>
 35:17 agregar archivos de una vez con git add .
 41:15 crear un repositorio en github
-43:33 git remote
+43:33 git remote 
+$ git remote add main https://github.com/Tritonius2020/inspiration.git
 44:10 git push
 48:30 git clone
 
+
 https://www.youtube.com/watch?v=HiXLkL42tMU
+
+curso python
+
+https://www.youtube.com/watch?v=QBX9cVDXhPI
